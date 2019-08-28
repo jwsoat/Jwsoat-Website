@@ -41,3 +41,6 @@ li a:hover:not(.active) {
 mark{
   background-color: white;
 }
+div.datetime{
+  float:right;
+}

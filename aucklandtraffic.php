@@ -2,14 +2,6 @@
 require 'head.php';
  ?>
 <div class="aucklandtraffic">
-    <link rel="stylesheet" href="css/main.css">
-    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a class="active" href="aucklandtraffic.html">Auckland Traffic</a></li>
-      <li><a href="#contact">Contact</a></li>
-      <li><a href="#about">About</a></li>
-    </ul>
-
     <table>
   <tr>
     <th>SH1 Millwater</th>

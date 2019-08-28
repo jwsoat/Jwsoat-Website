@@ -1,6 +1,5 @@
-.traffic-camera-left{
-  float: left;
-}
-.traffic-camera-right{
-  float: right;
+table, td{
+  width: 200px;
+  height: 200px;
+  border: 1px solid black;
 }

@@ -1,8 +1,9 @@
+<body>
 <?php
 require 'head.php';
  ?>
 <meta http-equiv="refresh" content="30"/>
-<div class="aucklandtraffic">
+<div class="aucklandtraffic-container">
     <table>
   <tr>
     <th>SH1 Millwater</th>
@@ -51,3 +52,4 @@ require 'head.php';
 </<?php
 require 'footer.php';
  ?>
+</body>

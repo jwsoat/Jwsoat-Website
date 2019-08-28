@@ -1,4 +1,4 @@
-<footer>
+<div class="footer">
   <p> 2019 Jwsoat Website Design Services</p>
   <a href="https://twitter.com/jwsoat">Twitter</a>
   <div class="datetime">
@@ -8,5 +8,5 @@
     document.getElementById("time").innerHTML = d;
     </script>
   </div>
-</footer>
-</html>
+</div>
+</body>

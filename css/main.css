@@ -46,7 +46,12 @@ div.datetime{
 }
 body{
   background-color: black;
+  color: white;
 }
 footer{
+  color: white;
+}
+div.index-container{
+  background-color: black;
   color: white;
 }

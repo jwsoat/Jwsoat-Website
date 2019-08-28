@@ -11,11 +11,3 @@
   <li><a href="#contact">Contact</a></li>
   <li><a href="#about">About</a></li>
 </ul>
-<h1> Welcome to the Jwsoat All in one Website</h1>
-<p> On this Website you will find lots of rubbish</p>
-  </body>
-  <footer>
-    <p> 2019 Jwsoat Website Design Services</p>
-    <a href="https://twitter.com/jwsoat">Twitter</a>
-  </footer>
-</html>

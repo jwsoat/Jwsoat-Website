@@ -1,3 +1,6 @@
+<?php
+require 'head.php';
+ ?>
 <div class="aucklandtraffic">
     <link rel="stylesheet" href="css/main.css">
     <ul>
@@ -52,3 +55,6 @@
   </tr>
 </table>
 </div>
+</<?php
+require 'footer.php';
+ ?>

@@ -2,6 +2,14 @@ table, td{
   width: 200px;
   height: 200px;
   border: 1px solid black;
+  margin-left: 25px;
+}
+table, th{
+  background-color: black;
+  color: white;
+}
+div.aucklandtraffic{
+background-color: black;
 }
 ul {
   list-style-type: none;
@@ -29,4 +37,7 @@ li a:hover:not(.active) {
 
 .active {
   background-color: #4CAF50;
+}
+mark{
+  background-color: white;
 }

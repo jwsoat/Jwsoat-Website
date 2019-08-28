@@ -1,6 +1,8 @@
 <?php
 require 'head.php';
  ?>
+<meta http-equiv="refresh" content="30"/>
+
 <div class="aucklandtraffic">
     <table>
   <tr>

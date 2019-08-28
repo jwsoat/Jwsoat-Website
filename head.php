@@ -9,5 +9,5 @@
   <li><a href="index.php">Home</a></li>
   <li><a href="aucklandtraffic.php">Auckland Traffic</a></li>
   <li><a href="#contact">Contact</a></li>
-  <li><a href="#about">About</a></li>
+  <li><a href="https://github.com/jwsoat/Jwsoat-Website">Github Repo</a></li>
 </ul>

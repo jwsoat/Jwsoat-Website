@@ -1,6 +1,6 @@
 <body>
 <?php
-require 'head.php';
+require '../import/top.php';
  ?>
 <meta http-equiv="refresh" content="30"/>
 <div class="aucklandtraffic-container">
